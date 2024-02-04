@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{54D94197-535F-42D8-8923-B34AB731832D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainin.API", "DotNetTrainin.API\DotNetTrainin.API.csproj", "{8D129672-4263-459B-877F-00B931BCAAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D129672-4263-459B-877F-00B931BCAAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D129672-4263-459B-877F-00B931BCAAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D129672-4263-459B-877F-00B931BCAAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D129672-4263-459B-877F-00B931BCAAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8D129672-4263-459B-877F-00B931BCAAF8} = {54D94197-535F-42D8-8923-B34AB731832D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6EE584-48C9-45FE-857B-40A3C49EC30F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@DotNetTrainin.API_HostAddress = http://localhost:5048
+
+GET {{DotNetTrainin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
